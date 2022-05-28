@@ -1,0 +1,1 @@
+(()=>{"use strict";["1","2","3","4","5"].forEach((e=>{document.querySelector(".list").innerHTML+=`<li>${e}</li>`}))})();

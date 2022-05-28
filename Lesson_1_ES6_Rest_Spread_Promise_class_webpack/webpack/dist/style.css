@@ -1,0 +1,15 @@
+.block {
+	color: red;
+	font-size: 40px;
+}
+.span {
+	width: 30px;
+	height: 30px;
+	background-color: rgb(172, 56, 56);
+	color: #fff;
+}
+.btn {
+	width: 200px;
+	padding: 10px;
+	font-size: 22px;
+}
